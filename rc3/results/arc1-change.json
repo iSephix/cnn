@@ -1,0 +1,78 @@
+{
+  "gained": {
+    "45737921": [
+      [
+        "copy",
+        "True_4_near_color",
+        null
+      ]
+    ],
+    "84f2aca1": [
+      [
+        "pixel",
+        "adjacent4",
+        true
+      ]
+    ],
+    "9a4bb226": [
+      [
+        "object",
+        [
+          [
+            false,
+            4,
+            "mode"
+          ],
+          "palette",
+          true,
+          "box"
+        ]
+      ]
+    ],
+    "ae58858e": [
+      [
+        "pixel",
+        "False_4_area",
+        true
+      ]
+    ],
+    "cd3c21df": [
+      [
+        "object",
+        [
+          [
+            true,
+            4,
+            "mode"
+          ],
+          "shape_count",
+          false,
+          "box"
+        ]
+      ]
+    ],
+    "e0fb7511": [
+      [
+        "pixel",
+        "False_4_smallest",
+        true
+      ]
+    ],
+    "f5aa3634": [
+      [
+        "object",
+        [
+          [
+            false,
+            4,
+            "mode"
+          ],
+          "shape_count",
+          true,
+          "box"
+        ]
+      ]
+    ]
+  },
+  "lost": []
+}

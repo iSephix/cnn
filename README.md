@@ -1,4 +1,8 @@
-# Concept Engine · ARC RC2
+# Concept Engine
+
+The current research candidate, RC3, learns object selection and recoloring rules from demonstrations. On the public evaluation splits it solves 21/400 ARC-AGI-1 tasks and 0/120 ARC-AGI-2 tasks. Reproduce with `bash rc3/reproduce.sh`. See [the experiment and limitations](rc3/README.md).
+
+## ARC RC2
 
 Can a grid transformation discovered in one task become an executable part of the next solution? RC2 mines two-step spatial programs from the 400 ARC-AGI-1 training tasks. It saves their projection sequence and learned threshold weights. Six training tasks that no single base projection solved yielded a validated program.
 
