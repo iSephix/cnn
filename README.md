@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC9](rc9/README.md) solves 71/400 (17.75%) ARC-AGI-1 public tasks, including 68 on the first attempt, after adding spatial relationships and panel reasoning.
+
 [RC8](rc8/README.md) reaches 61/400 (15.25%) on ARC-AGI-1 public evaluation by reusing learned numerical rules across tasks.
 
 [RC7](rc7/README.md) solves 56/400 ARC-AGI-1 public tasks (14%) and 0/120 ARC-AGI-2 public tasks. New cell rules compile into executable numerical threshold cards.

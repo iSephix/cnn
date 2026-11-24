@@ -21,3 +21,8 @@ for mode in rc7 rc8; do
  node run.js score "$tmp/tasks" "$out/$mode-score.json" "$tmp/$mode.json"
 done
 python3 rc7/audit.py "$out/rc7-score.json" "$out/rc8-score.json" "$tmp/rc8.json.trace.json" > "$out/change.json"
+# Optionally retain the stripped tasks and prior for downstream experiments.
+if [[ -n ${4:-} ]]; then
+  mkdir -p "$4"
+  cp -r "$tmp/tasks" "$tmp/blind" "$tmp/rc8.json" "$tmp/rc8.json.trace.json" "$4/"
+fi
