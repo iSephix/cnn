@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+tasks=$(realpath "$1"); work=$(realpath -m "$2")
+cd "$(dirname "$0")/.."
+mkdir -p "$work"
+bash rc12/build.sh "$work/build"
+node run.js strip "$tasks" "$work/blind"
+bash rc11/predict.sh "$work/blind" "$work/prior.json"
+bash rc12/cache.sh "$work/blind" "$work/build" "$work"
+python3 rc12/rank.py "$work/blind" "$work/prior.json" "$work/programs" "$work/model.json" "$work"/native-{0,1,2} "$work"/{mask,motif,beam} --labels "$tasks"

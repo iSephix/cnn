@@ -1,0 +1,4 @@
+--- a/brute2.cpp
++++ b/brute2.cpp
+@@ -349,0 +350 @@
++    if (depth >= 20 && curi >= 180) continue;
