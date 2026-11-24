@@ -1,0 +1,13 @@
+{
+  "tasks": 120,
+  "final_solved": 0,
+  "missed_in_pool": [],
+  "exact_candidates_by_family": {
+    "compose": 0,
+    "regions": 0,
+    "latent": 0,
+    "exemplar": 0,
+    "motion": 0,
+    "rewrite": 0
+  }
+}

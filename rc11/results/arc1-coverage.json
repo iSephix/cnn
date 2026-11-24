@@ -1,0 +1,28 @@
+{
+  "tasks": 400,
+  "final_solved": 102,
+  "missed_in_pool": [
+    "009d5c81",
+    "12eac192",
+    "32e9702f",
+    "358ba94e",
+    "5207a7b5",
+    "5289ad53",
+    "639f5a19",
+    "9110e3c5",
+    "b1fc8b8e",
+    "c8b7cc0f",
+    "e7b06bea",
+    "e7dd8335",
+    "ef26cbf6",
+    "fb791726"
+  ],
+  "exact_candidates_by_family": {
+    "compose": 12,
+    "regions": 19,
+    "latent": 18,
+    "exemplar": 1,
+    "motion": 0,
+    "rewrite": 6
+  }
+}
