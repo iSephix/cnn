@@ -33,3 +33,29 @@ versions:
       - benchmark: "arc-agi-2"
         set: "public"
         score: 0.0
+
+  - version: "1.0.0-rc.3"
+    date: 2026-11-24
+    changes: "Learned object selection and relational recoloring."
+    models:
+      - name: "Concept Engine ARC RC3"
+    scores:
+      - benchmark: "arc-agi-1"
+        set: "public"
+        score: 5.25
+      - benchmark: "arc-agi-2"
+        set: "public"
+        score: 0.0
+
+  - version: "1.0.0-rc.4"
+    date: 2026-11-24
+    changes: "Learned rigid placement, transformed tile layouts and panel combinations."
+    models:
+      - name: "Concept Engine ARC RC4"
+    scores:
+      - benchmark: "arc-agi-1"
+        set: "public"
+        score: 8.75
+      - benchmark: "arc-agi-2"
+        set: "public"
+        score: 0.0

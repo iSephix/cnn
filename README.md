@@ -1,6 +1,8 @@
 # Concept Engine
 
-The current research candidate, RC3, learns object selection and recoloring rules from demonstrations. On the public evaluation splits it solves 21/400 ARC-AGI-1 tasks and 0/120 ARC-AGI-2 tasks. Reproduce with `bash rc3/reproduce.sh`. See [the experiment and limitations](rc3/README.md).
+RC4 solves **35/400 (8.75%)** on ARC-AGI-1 public evaluation and **0/120** on ARC-AGI-2. It infers how to place transformed tiles and how aligned panels combine. Its anchor-based mover also transfers to new positions and colors in controlled tests. [RC4 experiment and reproduction](rc4/README.md).
+
+The [previous object-selection and recoloring experiment](rc3/README.md) solved 21/400 ARC-AGI-1 tasks.
 
 ## ARC RC2
 
