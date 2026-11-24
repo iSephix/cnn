@@ -1,0 +1,53 @@
+{
+  "tasks": 100,
+  "selected": 9,
+  "prior": 8,
+  "oracle": 14,
+  "gains": [
+    "9caf5b84",
+    "b7256dcd",
+    "cc9053aa"
+  ],
+  "losses": [
+    "87ab05b8",
+    "a834deea"
+  ],
+  "search_pass2": [
+    2,
+    1,
+    3,
+    0,
+    0,
+    3,
+    3,
+    1
+  ],
+  "search_status": [
+    {
+      "ok": 114
+    },
+    {
+      "ok": 114
+    },
+    {
+      "ok": 114
+    },
+    {
+      "inapplicable": 97,
+      "ok": 17
+    },
+    {
+      "inapplicable": 85,
+      "ok": 29
+    },
+    {
+      "ok": 114
+    },
+    {
+      "ok": 114
+    },
+    {
+      "ok": 114
+    }
+  ]
+}

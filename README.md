@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC13](rc13/README.md) solves **156/400 (39.0%)** on ARC-AGI-1 public evaluation, including 143 on the first attempt. New searches learn repeated output structure and Boolean rules for individual colors.
+
 [RC12](rc12/README.md) reaches **154/400 (38.5%)** on ARC-AGI-1 public evaluation and **1/120** on ARC-AGI-2 by ranking native search and Concept Engine proposals together.
 
 [RC11](rc11/README.md) solves **102/400 (25.5%)** ARC-AGI-1 public tasks with object-relative rendering and within-grid exemplar completion.
