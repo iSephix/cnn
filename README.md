@@ -1,5 +1,8 @@
 # Concept Engine
 
+[RC5](rc5/README.md) reaches 38/400 on ARC-AGI-1 public evaluation with compositional panel search, and 0/120 on ARC-AGI-2.
+
+
 RC4 solves **35/400 (8.75%)** on ARC-AGI-1 public evaluation and **0/120** on ARC-AGI-2. It infers how to place transformed tiles and how aligned panels combine. Its anchor-based mover also transfers to new positions and colors in controlled tests. [RC4 experiment and reproduction](rc4/README.md).
 
 The [previous object-selection and recoloring experiment](rc3/README.md) solved 21/400 ARC-AGI-1 tasks.
