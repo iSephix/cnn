@@ -1,0 +1,11 @@
+const assert=require('node:assert/strict');
+const {routes,fit,apply,solve}=require('./solver');
+const task=[{input:[[1,2,2]],output:[[3,3,4]]},{input:[[1,1,2]],output:[[3,4,4]]}];
+const flip=routes.find(r=>r.name==='symmetry2');
+const card=JSON.parse(JSON.stringify(fit(flip,task)));
+assert.deepEqual(apply(card,[[2,1,2]]),[[3,4,3]]);
+assert.deepEqual(apply(card,[[7,1]]),[[4,7]]);
+assert.equal(fit(flip,[...task,{input:[[1]],output:[[9]]}]),null);
+const p=solve(task,[[[2,1,2]]],null,51);
+assert.deepEqual(p[0].attempt_1,[[3,4,3]]);
+console.log('Card serialization, geometry, unseen category, contradiction, and inference passed.');
