@@ -1,0 +1,67 @@
+{
+  "gains": {
+    "1c0d0a4b": [
+      [
+        "memory",
+        "bound",
+        168,
+        4,
+        false,
+        [
+          "bdad9b1f"
+        ]
+      ]
+    ],
+    "a8610ef7": [
+      [
+        "memory",
+        "bound",
+        58,
+        0,
+        true,
+        [
+          "f25ffba3"
+        ]
+      ]
+    ],
+    "aa18de87": [
+      [
+        "memory",
+        "bound",
+        4,
+        0,
+        true,
+        [
+          "22168020",
+          "22eb0ac0"
+        ]
+      ]
+    ],
+    "c35c1b4c": [
+      [
+        "memory",
+        "bound",
+        180,
+        0,
+        true,
+        [
+          "67a3c6ac"
+        ]
+      ]
+    ],
+    "fc754716": [
+      [
+        "memory",
+        "bound",
+        13,
+        0,
+        false,
+        [
+          "6150a2bd",
+          "6f8cd79b"
+        ]
+      ]
+    ]
+  },
+  "losses": []
+}
