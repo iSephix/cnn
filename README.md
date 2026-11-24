@@ -1,5 +1,8 @@
 # Concept Engine
 
+[RC6](rc6/README.md) searches the order of grid operations and solves 46/400 ARC-AGI-1 public tasks with two attempts.
+
+
 [RC5](rc5/README.md) reaches 38/400 on ARC-AGI-1 public evaluation with compositional panel search, and 0/120 on ARC-AGI-2.
 
 

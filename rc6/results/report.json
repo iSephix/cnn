@@ -1,0 +1,130 @@
+{
+  "1": {
+    "runs": {
+      "rc5": {
+        "tasks": 400,
+        "all_outputs_pass1": 37,
+        "all_outputs_pass2": 38,
+        "mean_task_output_pass2": 0.095,
+        "test_inputs": 419,
+        "correct_inputs": 41,
+        "prediction_sha256": "62754e8c40c569f06420f366bbaaafed8b03af76baa63a9da5a6fa98c40fea72"
+      },
+      "fixed": {
+        "tasks": 400,
+        "all_outputs_pass1": 40,
+        "all_outputs_pass2": 41,
+        "mean_task_output_pass2": 0.1025,
+        "test_inputs": 419,
+        "correct_inputs": 44,
+        "prediction_sha256": "a3910a7a98da6ab340d1ecc923a8135221187afad9f6956ec6d71e31ed855546"
+      },
+      "free": {
+        "tasks": 400,
+        "all_outputs_pass1": 41,
+        "all_outputs_pass2": 42,
+        "mean_task_output_pass2": 0.105,
+        "test_inputs": 419,
+        "correct_inputs": 45,
+        "prediction_sha256": "e0024a16832196cd0195c35c197ad40d75f21bf441a359b80a65901707c78227"
+      },
+      "full": {
+        "tasks": 400,
+        "all_outputs_pass1": 45,
+        "all_outputs_pass2": 46,
+        "mean_task_output_pass2": 0.115,
+        "test_inputs": 419,
+        "correct_inputs": 49,
+        "prediction_sha256": "11c6444ccbc397fe64980740078354680fd4ef791731753391b8804081e11d35"
+      }
+    },
+    "gains": {
+      "1d0a4b61": [
+        [
+          "fill-period"
+        ]
+      ],
+      "73182012": [
+        [
+          "crop",
+          "unique-rows",
+          "unique-cols"
+        ]
+      ],
+      "9ddd00f0": [
+        [
+          "complete-diagonal",
+          "complete-x"
+        ]
+      ],
+      "c663677b": [
+        [
+          "fill-period"
+        ]
+      ],
+      "ca8f78db": [
+        [
+          "fill-period"
+        ]
+      ],
+      "ce8d95cc": [
+        [
+          "compress"
+        ]
+      ],
+      "e1baa8a4": [
+        [
+          "compress"
+        ]
+      ],
+      "e95e3d8e": [
+        [
+          "fill-period"
+        ]
+      ]
+    },
+    "losses": []
+  },
+  "2": {
+    "runs": {
+      "rc5": {
+        "tasks": 120,
+        "all_outputs_pass1": 0,
+        "all_outputs_pass2": 0,
+        "mean_task_output_pass2": 0,
+        "test_inputs": 167,
+        "correct_inputs": 0,
+        "prediction_sha256": "231e6688b16df6bf01cd48c0ac7844c4a1cdcde8e3d638a0960be7f505848df3"
+      },
+      "fixed": {
+        "tasks": 120,
+        "all_outputs_pass1": 0,
+        "all_outputs_pass2": 0,
+        "mean_task_output_pass2": 0,
+        "test_inputs": 167,
+        "correct_inputs": 0,
+        "prediction_sha256": "231e6688b16df6bf01cd48c0ac7844c4a1cdcde8e3d638a0960be7f505848df3"
+      },
+      "free": {
+        "tasks": 120,
+        "all_outputs_pass1": 0,
+        "all_outputs_pass2": 0,
+        "mean_task_output_pass2": 0,
+        "test_inputs": 167,
+        "correct_inputs": 0,
+        "prediction_sha256": "231e6688b16df6bf01cd48c0ac7844c4a1cdcde8e3d638a0960be7f505848df3"
+      },
+      "full": {
+        "tasks": 120,
+        "all_outputs_pass1": 0,
+        "all_outputs_pass2": 0,
+        "mean_task_output_pass2": 0,
+        "test_inputs": 167,
+        "correct_inputs": 0,
+        "prediction_sha256": "231e6688b16df6bf01cd48c0ac7844c4a1cdcde8e3d638a0960be7f505848df3"
+      }
+    },
+    "gains": {},
+    "losses": []
+  }
+}
