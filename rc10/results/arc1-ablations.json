@@ -1,0 +1,56 @@
+{
+  "induce": {
+    "tasks": 400,
+    "all_outputs_pass1": 77,
+    "all_outputs_pass2": 82,
+    "mean_task_output_pass2": 0.205,
+    "test_inputs": 419,
+    "correct_inputs": 87,
+    "prediction_sha256": "184c399560ed65f121ab75e73b5f74b930740d7f96e040e69e07cfc53c18bb4f"
+  },
+  "canvas": {
+    "tasks": 400,
+    "all_outputs_pass1": 71,
+    "all_outputs_pass2": 75,
+    "mean_task_output_pass2": 0.1875,
+    "test_inputs": 419,
+    "correct_inputs": 79,
+    "prediction_sha256": "acdcc104fbac6fa4f6e0be6ac87797270b4b20338687e1b56feb7e4d5ef7cabc"
+  },
+  "resample": {
+    "tasks": 400,
+    "all_outputs_pass1": 77,
+    "all_outputs_pass2": 83,
+    "mean_task_output_pass2": 0.20875,
+    "test_inputs": 419,
+    "correct_inputs": 90,
+    "prediction_sha256": "e53551449f68b76f058923c408b5484f2073a01679d856dd9a91e0d60fd71b97"
+  },
+  "stamps": {
+    "tasks": 400,
+    "all_outputs_pass1": 70,
+    "all_outputs_pass2": 73,
+    "mean_task_output_pass2": 0.1825,
+    "test_inputs": 419,
+    "correct_inputs": 77,
+    "prediction_sha256": "f192d5a1a0717b78d9dbeacdbc6b2ba51d849ac9a3e62d86c49c4063304990b4"
+  },
+  "pointers": {
+    "tasks": 400,
+    "all_outputs_pass1": 73,
+    "all_outputs_pass2": 77,
+    "mean_task_output_pass2": 0.1925,
+    "test_inputs": 419,
+    "correct_inputs": 82,
+    "prediction_sha256": "af6e9f316c2931d58a753249c9e717a86929f2152e7816095f0864964dad9d4f"
+  },
+  "catalog": {
+    "tasks": 400,
+    "all_outputs_pass1": 69,
+    "all_outputs_pass2": 72,
+    "mean_task_output_pass2": 0.18,
+    "test_inputs": 419,
+    "correct_inputs": 76,
+    "prediction_sha256": "b7eec17e99524177dca3469c2b2ca1c78b7d6c3dccd4a8551e8bb3fbf3caf099"
+  }
+}

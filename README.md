@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC10](rc10/README.md) solves **98/400 (24.5%)** ARC-AGI-1 public tasks, including 88 on the first attempt. The standalone predictor accepts unlabeled ARC tasks.
+
 [RC9](rc9/README.md) solves 71/400 (17.75%) ARC-AGI-1 public tasks, including 68 on the first attempt, after adding spatial relationships and panel reasoning.
 
 [RC8](rc8/README.md) reaches 61/400 (15.25%) on ARC-AGI-1 public evaluation by reusing learned numerical rules across tasks.
