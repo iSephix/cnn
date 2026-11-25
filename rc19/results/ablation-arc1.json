@@ -1,0 +1,9 @@
+{
+  "tasks": 400,
+  "all_outputs_pass1": 151,
+  "all_outputs_pass2": 163,
+  "mean_task_output_pass2": 0.40875,
+  "test_inputs": 419,
+  "correct_inputs": 176,
+  "prediction_sha256": "790e43e71536dd7d630fa529f415c8e48fbfc40b403f36ceea9c0887c55b1210"
+}

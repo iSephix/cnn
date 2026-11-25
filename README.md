@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC19](rc19/README.md) reaches **163/400 (40.75%)** on public ARC-AGI-1 with compositional candidate generation and a shared verifier.
+
 [RC18](rc18/README.md) reaches **160/400 (40.0%)** on public ARC-AGI-1 with object relations and compressed-scene search.
 
 [RC17](rc17/README.md) reaches **159/400 (39.75%)** on public ARC-AGI-1 and adds count-based rendering and transferable spatial stencils.
