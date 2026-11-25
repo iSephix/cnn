@@ -1,0 +1,146 @@
+{
+  "arc1": {
+    "rc25": 255,
+    "fixed": {
+      "candidate_coverage": 9,
+      "standalone_first": 7,
+      "standalone_two": 9,
+      "states": 201621,
+      "integrated": 255,
+      "gained": [],
+      "lost": [],
+      "new_over_rc25_candidate_coverage": []
+    },
+    "learned": {
+      "candidate_coverage": 9,
+      "standalone_first": 8,
+      "standalone_two": 9,
+      "states": 206678,
+      "integrated": 255,
+      "gained": [],
+      "lost": [],
+      "new_over_rc25_candidate_coverage": []
+    },
+    "bridge": {
+      "candidate_coverage": 29,
+      "standalone_first": 26,
+      "standalone_two": 27,
+      "states": 3179,
+      "integrated": 253,
+      "gained": [],
+      "lost": [
+        "0bb8deee",
+        "351d6448"
+      ],
+      "new_over_rc25_candidate_coverage": []
+    }
+  },
+  "arc2": {
+    "rc25": 3,
+    "fixed": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 62140,
+      "integrated": 3,
+      "gained": [],
+      "lost": []
+    },
+    "learned": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 63707,
+      "integrated": 3,
+      "gained": [],
+      "lost": []
+    },
+    "bridge": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 958
+    }
+  },
+  "supp": {
+    "rc25": 11,
+    "fixed": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 51073,
+      "integrated": 11,
+      "gained": [],
+      "lost": []
+    },
+    "learned": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 52459,
+      "integrated": 11,
+      "gained": [],
+      "lost": []
+    },
+    "bridge": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 797
+    }
+  },
+  "fresh": {
+    "rc25": 10,
+    "fixed": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 51215,
+      "integrated": 10,
+      "gained": [],
+      "lost": []
+    },
+    "learned": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 52405,
+      "integrated": 10,
+      "gained": [],
+      "lost": []
+    },
+    "bridge": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 800
+    }
+  },
+  "remaining": {
+    "rc25": 0,
+    "fixed": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 17285,
+      "integrated": 0,
+      "gained": [],
+      "lost": []
+    },
+    "learned": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 17630,
+      "integrated": 0,
+      "gained": [],
+      "lost": []
+    },
+    "bridge": {
+      "candidate_coverage": 0,
+      "standalone_first": 0,
+      "standalone_two": 0,
+      "states": 262
+    }
+  }
+}

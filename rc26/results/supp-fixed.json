@@ -1,0 +1,10 @@
+{
+  "tasks": 100,
+  "states": 51073,
+  "candidate_coverage": 0,
+  "first": 0,
+  "two": 0,
+  "covered_ids": [],
+  "first_ids": [],
+  "two_ids": []
+}

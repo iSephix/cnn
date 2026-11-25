@@ -1,0 +1,36 @@
+{
+  "tasks": 100,
+  "states": 50488,
+  "candidate_coverage": 8,
+  "first": 7,
+  "two": 8,
+  "covered_ids": [
+    "0d3d703e",
+    "1cf80156",
+    "1f85a75f",
+    "2dc579da",
+    "2dee498d",
+    "3af2c5a8",
+    "3c9b0459",
+    "445eab21"
+  ],
+  "first_ids": [
+    "0d3d703e",
+    "1cf80156",
+    "1f85a75f",
+    "2dc579da",
+    "2dee498d",
+    "3af2c5a8",
+    "3c9b0459"
+  ],
+  "two_ids": [
+    "0d3d703e",
+    "1cf80156",
+    "1f85a75f",
+    "2dc579da",
+    "2dee498d",
+    "3af2c5a8",
+    "3c9b0459",
+    "445eab21"
+  ]
+}
