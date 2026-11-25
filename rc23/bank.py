@@ -58,26 +58,27 @@ def generate(task, detectors, transforms):
         seen.add(signature)
         for detector in detectors:
             try:
-                signal.setitimer(signal.ITIMER_REAL,1.5)
-                f=detector([(a.copy(),b.copy()) for a,b in demos])
-                if f is None or not all(np.array_equal(grid(f(a.copy())),b) for a,b in demos):
-                    continue
-                for row,a in zip(rows,tests):
-                    value=grid(f(a.copy()))
-                    if value is None:
+                try:
+                    signal.setitimer(signal.ITIMER_REAL,1.5)
+                    f=detector([(a.copy(),b.copy()) for a,b in demos])
+                    if f is None or not all(np.array_equal(grid(f(a.copy())),b) for a,b in demos):
                         continue
-                    result=restore(value,code)
-                    key=(result.shape,result.tobytes())
-                    evidence=row.setdefault(key,dict(grid=result.tolist(),detectors=Counter(),orientations=set(),identity_votes=0))
-                    name=f'{detector.__module__}.{detector.__name__}'
-                    evidence['detectors'][name]+=1
-                    evidence['orientations'].add(code)
-                    evidence['identity_votes']+=code==0
+                    for row,a in zip(rows,tests):
+                        value=grid(f(a.copy()))
+                        if value is None:
+                            continue
+                        result=restore(value,code)
+                        key=(result.shape,result.tobytes())
+                        evidence=row.setdefault(key,dict(grid=result.tolist(),detectors=Counter(),orientations=set(),identity_votes=0))
+                        name=f'{detector.__module__}.{detector.__name__}'
+                        evidence['detectors'][name]+=1
+                        evidence['orientations'].add(code)
+                        evidence['identity_votes']+=code==0
+                finally:
+                    signal.setitimer(signal.ITIMER_REAL,0)
             except Exception:
                 # Each external detector is an independent optional hypothesis.
                 continue
-            finally:
-                signal.setitimer(signal.ITIMER_REAL,0)
     data=[]
     for row in rows:
         choices=[]

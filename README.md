@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC24](rc24/README.md) solves **244/400 (61.0%)** on the public ARC-AGI-1 development split and checks rules on held-out demonstrations.
+
 [RC23](rc23/README.md) reaches **243/400 (60.75%)** on the public ARC-AGI-1 development split by combining RC21 with a verified external detector bank.
 
 [RC22](rc22/README.md) experiments with interpretable object correspondence and compositional movement. RC21 remains the released predictor.

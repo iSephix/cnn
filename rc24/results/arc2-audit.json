@@ -1,0 +1,29 @@
+{
+  "tasks": 120,
+  "counts": {
+    "direct": 2,
+    "heldout": 2,
+    "palette": 2,
+    "union": 2,
+    "new_vs_rc23": 0
+  },
+  "ids": {
+    "direct": [
+      "1818057f",
+      "981571dc"
+    ],
+    "heldout": [
+      "1818057f",
+      "981571dc"
+    ],
+    "palette": [
+      "1818057f",
+      "981571dc"
+    ],
+    "union": [
+      "1818057f",
+      "981571dc"
+    ],
+    "new_vs_rc23": []
+  }
+}

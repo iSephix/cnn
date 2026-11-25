@@ -1,0 +1,38 @@
+{
+  "tasks": 100,
+  "counts": {
+    "direct": 2,
+    "heldout": 2,
+    "palette": 2,
+    "union": 11,
+    "new_vs_rc23": 0
+  },
+  "ids": {
+    "direct": [
+      "5751f35e",
+      "cf5fd0ad"
+    ],
+    "heldout": [
+      "5751f35e",
+      "cf5fd0ad"
+    ],
+    "palette": [
+      "5751f35e",
+      "cf5fd0ad"
+    ],
+    "union": [
+      "2de01db2",
+      "52364a65",
+      "5751f35e",
+      "5ad8a7c0",
+      "7e4d4f7c",
+      "833966f4",
+      "9ba4a9aa",
+      "cf5fd0ad",
+      "df9fd884",
+      "e729b7be",
+      "fd02da9e"
+    ],
+    "new_vs_rc23": []
+  }
+}
