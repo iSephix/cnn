@@ -1,0 +1,27 @@
+{
+  "arc1": {
+    "tasks": 400,
+    "first_attempt": 149,
+    "two_attempts": 162
+  },
+  "arc2": {
+    "tasks": 120,
+    "first_attempt": 1,
+    "two_attempts": 1
+  },
+  "supp": {
+    "tasks": 100,
+    "first_attempt": 8,
+    "two_attempts": 12
+  },
+  "fresh": {
+    "tasks": 100,
+    "first_attempt": 8,
+    "two_attempts": 9
+  },
+  "remaining": {
+    "tasks": 33,
+    "first_attempt": 0,
+    "two_attempts": 2
+  }
+}
