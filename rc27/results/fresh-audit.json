@@ -1,0 +1,15 @@
+{
+  "tasks": 100,
+  "gained": [],
+  "lost": [],
+  "families": {
+    "local": {
+      "proposed": 27,
+      "correct": 1,
+      "verified_correct": 0,
+      "correct_ids": [
+        "ad38a9d0"
+      ]
+    }
+  }
+}

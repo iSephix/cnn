@@ -1,0 +1,38 @@
+{
+  "tasks": 100,
+  "gained": [],
+  "lost": [],
+  "families": {
+    "local": {
+      "proposed": 14,
+      "correct": 6,
+      "verified_correct": 3,
+      "correct_ids": [
+        "00d62c1b",
+        "0d3d703e",
+        "25d8a9c8",
+        "3618c87e",
+        "42a50994",
+        "4347f46a"
+      ]
+    },
+    "space": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "1cf80156"
+      ]
+    },
+    "topological": {
+      "proposed": 3,
+      "correct": 3,
+      "verified_correct": 2,
+      "correct_ids": [
+        "3618c87e",
+        "42a50994",
+        "4347f46a"
+      ]
+    }
+  }
+}

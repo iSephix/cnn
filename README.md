@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC27](rc27/README.md) solves **265/400 (66.25%)** public ARC-AGI-1 development tasks, including **247 first attempts**, with relational actions and geometric constraints.
+
 [RC26](rc26/README.md) experiments with compositional program search, backward output constraints, and learned concept fragments. The acquisition holdout and public benchmark ablations are included.
 
 [RC25](rc25/README.md) reaches **255/400 (63.75%)** on the public ARC-AGI-1 development split with structural programs, latent layouts, and native trace repair.

@@ -1,0 +1,21 @@
+{
+  "tasks": 100,
+  "gained": [],
+  "lost": [],
+  "families": {
+    "local": {
+      "proposed": 16,
+      "correct": 1,
+      "verified_correct": 0,
+      "correct_ids": [
+        "52364a65"
+      ]
+    },
+    "topological": {
+      "proposed": 1,
+      "correct": 0,
+      "verified_correct": 0,
+      "correct_ids": []
+    }
+  }
+}

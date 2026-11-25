@@ -1,0 +1,165 @@
+{
+  "tasks": 400,
+  "gained": [
+    "03560426",
+    "09c534e7",
+    "103eff5b",
+    "15113be4",
+    "15663ba9",
+    "184a9768",
+    "1990f7a8",
+    "1acc24af",
+    "1c02dbbe",
+    "1da012fc"
+  ],
+  "lost": [],
+  "families": {
+    "broadcast": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "09c534e7"
+      ],
+      "new_over_previous_pool": [
+        "09c534e7"
+      ]
+    },
+    "cavity": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "1acc24af"
+      ],
+      "new_over_previous_pool": [
+        "1acc24af"
+      ]
+    },
+    "exact cover": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "184a9768"
+      ],
+      "new_over_previous_pool": [
+        "184a9768"
+      ]
+    },
+    "legend": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "1da012fc"
+      ],
+      "new_over_previous_pool": [
+        "1da012fc"
+      ]
+    },
+    "local": {
+      "proposed": 30,
+      "correct": 7,
+      "verified_correct": 5,
+      "correct_ids": [
+        "12eac192",
+        "15663ba9",
+        "516b51b7",
+        "639f5a19",
+        "84db8fc4",
+        "ae58858e",
+        "e0fb7511"
+      ],
+      "new_over_previous_pool": [
+        "15663ba9"
+      ]
+    },
+    "object grid": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "1990f7a8"
+      ],
+      "new_over_previous_pool": [
+        "1990f7a8"
+      ]
+    },
+    "panel": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "15113be4"
+      ],
+      "new_over_previous_pool": [
+        "15113be4"
+      ]
+    },
+    "periodic": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "c663677b"
+      ],
+      "new_over_previous_pool": []
+    },
+    "pins": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "1c02dbbe"
+      ],
+      "new_over_previous_pool": [
+        "1c02dbbe"
+      ]
+    },
+    "space": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "68b67ca3"
+      ],
+      "new_over_previous_pool": []
+    },
+    "staircase": {
+      "proposed": 1,
+      "correct": 1,
+      "verified_correct": 1,
+      "correct_ids": [
+        "03560426"
+      ],
+      "new_over_previous_pool": [
+        "03560426"
+      ]
+    },
+    "topological": {
+      "proposed": 3,
+      "correct": 2,
+      "verified_correct": 2,
+      "correct_ids": [
+        "15663ba9",
+        "e0fb7511"
+      ],
+      "new_over_previous_pool": [
+        "15663ba9"
+      ]
+    },
+    "transfer": {
+      "proposed": 2,
+      "correct": 2,
+      "verified_correct": 2,
+      "correct_ids": [
+        "103eff5b",
+        "9f27f097"
+      ],
+      "new_over_previous_pool": [
+        "103eff5b"
+      ]
+    }
+  }
+}
