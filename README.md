@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC23](rc23/README.md) reaches **243/400 (60.75%)** on the public ARC-AGI-1 development split by combining RC21 with a verified external detector bank.
+
 [RC22](rc22/README.md) experiments with interpretable object correspondence and compositional movement. RC21 remains the released predictor.
 
 [RC21](rc21/README.md) reaches **167/400 (41.75%)** on public ARC-AGI-1 with color routing, object binding, and region rules.

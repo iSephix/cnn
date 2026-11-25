@@ -1,0 +1,14 @@
+{
+  "tasks": 33,
+  "scores": {
+    "baseline": 0,
+    "original_orientation_supported": 0,
+    "augmented_only": 0,
+    "bank_coverage": 0,
+    "reserve_policy": 0,
+    "learned_policy": 0
+  },
+  "gains": [],
+  "losses": [],
+  "bank_coverage_ids": []
+}

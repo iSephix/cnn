@@ -1,0 +1,20 @@
+{
+  "tasks": 100,
+  "scores": {
+    "baseline": 10,
+    "original_orientation_supported": 3,
+    "augmented_only": 3,
+    "bank_coverage": 3,
+    "reserve_policy": 9,
+    "learned_policy": 9
+  },
+  "gains": [],
+  "losses": [
+    "87ab05b8"
+  ],
+  "bank_coverage_ids": [
+    "1d61978c",
+    "342dd610",
+    "ad38a9d0"
+  ]
+}
