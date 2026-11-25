@@ -1,0 +1,12 @@
+{
+  "tasks": 400,
+  "pattern_cap": 32,
+  "learned_patterns": 4,
+  "directional": [],
+  "neighborhood": [
+    "f0df5ff0"
+  ],
+  "learned": [
+    "f0df5ff0"
+  ]
+}

@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC17](rc17/README.md) reaches **159/400 (39.75%)** on public ARC-AGI-1 and adds count-based rendering and transferable spatial stencils.
+
 [RC16](rc16/README.md) tests whether programs mined from solved training puzzles transfer to new tasks under a matched search budget.
 
 [RC15](rc15/README.md) reaches **158/400 (39.5%)** on public ARC-AGI-1 with two attempts.
