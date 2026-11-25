@@ -1,0 +1,52 @@
+{
+  "tasks": 33,
+  "selected": 0,
+  "prior": 1,
+  "oracle": 4,
+  "gains": [],
+  "losses": [
+    "753ea09b"
+  ],
+  "search_pass2": [
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "search_status": [
+    {
+      "ok": 39
+    },
+    {
+      "ok": 39
+    },
+    {
+      "ok": 39
+    },
+    {
+      "inapplicable": 31,
+      "ok": 8
+    },
+    {
+      "inapplicable": 25,
+      "ok": 14
+    },
+    {
+      "ok": 39
+    },
+    {
+      "ok": 39
+    },
+    {
+      "ok": 39
+    },
+    {
+      "ok": 39
+    }
+  ]
+}
