@@ -1,0 +1,416 @@
+{
+  "arc1": {
+    "sources": {
+      "direct": {
+        "tasks_with_answer": 136,
+        "new_over_rc24_solved": [
+          "15696249",
+          "917bccba",
+          "aa4ec2a5",
+          "b4a43f3b",
+          "d492a647"
+        ],
+        "new_over_rc24_candidate_coverage": [
+          "917bccba",
+          "d492a647"
+        ]
+      },
+      "repair": {
+        "tasks_with_answer": 55,
+        "new_over_rc24_solved": [
+          "917bccba",
+          "d492a647"
+        ],
+        "new_over_rc24_candidate_coverage": [
+          "917bccba",
+          "d492a647"
+        ]
+      },
+      "structure": {
+        "tasks_with_answer": 4,
+        "new_over_rc24_solved": [
+          "0e671a1a",
+          "1c56ad9f",
+          "4364c1c4"
+        ],
+        "new_over_rc24_candidate_coverage": [
+          "0e671a1a",
+          "1c56ad9f",
+          "4364c1c4"
+        ]
+      },
+      "layout": {
+        "tasks_with_answer": 4,
+        "new_over_rc24_solved": [
+          "0bb8deee",
+          "351d6448",
+          "42a15761",
+          "85b81ff1"
+        ],
+        "new_over_rc24_candidate_coverage": [
+          "0bb8deee",
+          "351d6448",
+          "42a15761",
+          "85b81ff1"
+        ]
+      },
+      "geometry": {
+        "tasks_with_answer": 14,
+        "new_over_rc24_solved": [],
+        "new_over_rc24_candidate_coverage": []
+      },
+      "specialists": {
+        "tasks_with_answer": 7,
+        "new_over_rc24_solved": [],
+        "new_over_rc24_candidate_coverage": []
+      },
+      "lattice": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": [],
+        "new_over_rc24_candidate_coverage": []
+      }
+    },
+    "policies": {
+      "verified": {
+        "first": 237,
+        "two": 251,
+        "gained": [
+          "0bb8deee",
+          "0e671a1a",
+          "1c56ad9f",
+          "351d6448",
+          "42a15761",
+          "4364c1c4",
+          "85b81ff1"
+        ],
+        "lost": []
+      },
+      "reserve": {
+        "first": 237,
+        "two": 251,
+        "gained": [
+          "0bb8deee",
+          "0e671a1a",
+          "1c56ad9f",
+          "351d6448",
+          "42a15761",
+          "4364c1c4",
+          "85b81ff1",
+          "917bccba",
+          "aa4ec2a5",
+          "b4a43f3b",
+          "d492a647"
+        ],
+        "lost": [
+          "17cae0c1",
+          "55059096",
+          "55783887",
+          "62ab2642"
+        ]
+      },
+      "learned": {
+        "first": 237,
+        "two": 244,
+        "gained": [
+          "917bccba",
+          "aa4ec2a5",
+          "b4a43f3b",
+          "d492a647"
+        ],
+        "lost": [
+          "17cae0c1",
+          "55059096",
+          "55783887",
+          "62ab2642"
+        ]
+      },
+      "consensus": {
+        "first": 237,
+        "two": 255,
+        "gained": [
+          "0bb8deee",
+          "0e671a1a",
+          "1c56ad9f",
+          "351d6448",
+          "42a15761",
+          "4364c1c4",
+          "85b81ff1",
+          "917bccba",
+          "aa4ec2a5",
+          "b4a43f3b",
+          "d492a647"
+        ],
+        "lost": []
+      }
+    }
+  },
+  "arc2": {
+    "sources": {
+      "direct": {
+        "tasks_with_answer": 1,
+        "new_over_rc24_solved": [
+          "aa4ec2a5"
+        ]
+      },
+      "repair": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "structure": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "layout": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "geometry": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "specialists": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "lattice": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      }
+    },
+    "policies": {
+      "verified": {
+        "first": 2,
+        "two": 2,
+        "gained": [],
+        "lost": []
+      },
+      "reserve": {
+        "first": 2,
+        "two": 3,
+        "gained": [
+          "aa4ec2a5"
+        ],
+        "lost": []
+      },
+      "learned": {
+        "first": 2,
+        "two": 3,
+        "gained": [
+          "aa4ec2a5"
+        ],
+        "lost": []
+      },
+      "consensus": {
+        "first": 2,
+        "two": 3,
+        "gained": [
+          "aa4ec2a5"
+        ],
+        "lost": []
+      }
+    }
+  },
+  "supp": {
+    "sources": {
+      "direct": {
+        "tasks_with_answer": 7,
+        "new_over_rc24_solved": [
+          "1be83260",
+          "8618d23e",
+          "9b30e358"
+        ]
+      },
+      "repair": {
+        "tasks_with_answer": 3,
+        "new_over_rc24_solved": [
+          "1be83260",
+          "8618d23e"
+        ]
+      },
+      "structure": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "layout": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "geometry": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "specialists": {
+        "tasks_with_answer": 1,
+        "new_over_rc24_solved": [
+          "9b30e358"
+        ]
+      },
+      "lattice": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      }
+    },
+    "policies": {
+      "verified": {
+        "first": 7,
+        "two": 9,
+        "gained": [],
+        "lost": []
+      },
+      "reserve": {
+        "first": 7,
+        "two": 11,
+        "gained": [
+          "1be83260",
+          "8618d23e"
+        ],
+        "lost": []
+      },
+      "learned": {
+        "first": 7,
+        "two": 11,
+        "gained": [
+          "1be83260",
+          "8618d23e"
+        ],
+        "lost": []
+      },
+      "consensus": {
+        "first": 7,
+        "two": 11,
+        "gained": [
+          "1be83260",
+          "8618d23e"
+        ],
+        "lost": []
+      }
+    }
+  },
+  "fresh": {
+    "sources": {
+      "direct": {
+        "tasks_with_answer": 6,
+        "new_over_rc24_solved": [
+          "37ce87bb",
+          "f1bcbc2c"
+        ]
+      },
+      "repair": {
+        "tasks_with_answer": 1,
+        "new_over_rc24_solved": []
+      },
+      "structure": {
+        "tasks_with_answer": 1,
+        "new_over_rc24_solved": [
+          "9968a131"
+        ]
+      },
+      "layout": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "geometry": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "specialists": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "lattice": {
+        "tasks_with_answer": 1,
+        "new_over_rc24_solved": [
+          "9968a131"
+        ]
+      }
+    },
+    "policies": {
+      "verified": {
+        "first": 9,
+        "two": 10,
+        "gained": [],
+        "lost": []
+      },
+      "reserve": {
+        "first": 9,
+        "two": 10,
+        "gained": [],
+        "lost": []
+      },
+      "learned": {
+        "first": 9,
+        "two": 10,
+        "gained": [],
+        "lost": []
+      },
+      "consensus": {
+        "first": 9,
+        "two": 10,
+        "gained": [],
+        "lost": []
+      }
+    }
+  },
+  "remaining": {
+    "sources": {
+      "direct": {
+        "tasks_with_answer": 3,
+        "new_over_rc24_solved": [
+          "2f767503",
+          "5e6bbc0b",
+          "753ea09b"
+        ]
+      },
+      "repair": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "structure": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "layout": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "geometry": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "specialists": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      },
+      "lattice": {
+        "tasks_with_answer": 0,
+        "new_over_rc24_solved": []
+      }
+    },
+    "policies": {
+      "verified": {
+        "first": 0,
+        "two": 0,
+        "gained": [],
+        "lost": []
+      },
+      "reserve": {
+        "first": 0,
+        "two": 0,
+        "gained": [],
+        "lost": []
+      },
+      "learned": {
+        "first": 0,
+        "two": 0,
+        "gained": [],
+        "lost": []
+      },
+      "consensus": {
+        "first": 0,
+        "two": 0,
+        "gained": [],
+        "lost": []
+      }
+    }
+  }
+}
