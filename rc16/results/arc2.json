@@ -1,0 +1,28 @@
+{
+  "tasks": 120,
+  "budget": 384,
+  "summary": {
+    "baseline": 0,
+    "baseline_coverage": 0,
+    "shuffled_0": 0,
+    "shuffled_0_coverage": 0,
+    "shuffled_1": 0,
+    "shuffled_1_coverage": 0,
+    "shuffled_2": 0,
+    "shuffled_2_coverage": 0,
+    "learned": 0,
+    "learned_coverage": 0
+  },
+  "hits": {
+    "baseline": [],
+    "baseline_coverage": [],
+    "shuffled_0": [],
+    "shuffled_0_coverage": [],
+    "shuffled_1": [],
+    "shuffled_1_coverage": [],
+    "shuffled_2": [],
+    "shuffled_2_coverage": [],
+    "learned": [],
+    "learned_coverage": []
+  }
+}

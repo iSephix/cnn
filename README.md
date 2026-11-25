@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC16](rc16/README.md) tests whether programs mined from solved training puzzles transfer to new tasks under a matched search budget.
+
 [RC15](rc15/README.md) reaches **158/400 (39.5%)** on public ARC-AGI-1 with two attempts.
 
 [RC14](rc14/README.md) promotes demonstration-consistent scene concepts, solving **144/400 on the first attempt** and **156/400 within two attempts** on public ARC-AGI-1.

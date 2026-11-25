@@ -1,0 +1,88 @@
+{
+  "tasks": 400,
+  "budget": 384,
+  "summary": {
+    "baseline": 5,
+    "baseline_coverage": 5,
+    "shuffled_0": 5,
+    "shuffled_0_coverage": 5,
+    "shuffled_1": 5,
+    "shuffled_1_coverage": 5,
+    "shuffled_2": 5,
+    "shuffled_2_coverage": 5,
+    "learned": 5,
+    "learned_coverage": 5
+  },
+  "hits": {
+    "baseline": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "baseline_coverage": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "shuffled_0": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "shuffled_0_coverage": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "shuffled_1": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "shuffled_1_coverage": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "shuffled_2": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "shuffled_2_coverage": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "learned": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ],
+    "learned_coverage": [
+      "48131b3c",
+      "642d658d",
+      "cd3c21df",
+      "ce8d95cc",
+      "e1baa8a4"
+    ]
+  }
+}
