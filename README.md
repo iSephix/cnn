@@ -1,5 +1,7 @@
 # Concept Engine
 
+[RC22](rc22/README.md) experiments with interpretable object correspondence and compositional movement. RC21 remains the released predictor.
+
 [RC21](rc21/README.md) reaches **167/400 (41.75%)** on public ARC-AGI-1 with color routing, object binding, and region rules.
 
 [RC20](rc20/README.md) reaches **164/400 (41.0%)** on public ARC-AGI-1 by learning actions conditioned on object properties.

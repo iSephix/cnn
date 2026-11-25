@@ -1,0 +1,22 @@
+{
+  "tasks": 400,
+  "families": {
+    "compose-correspondence-arc1": {
+      "active": 1,
+      "coverage": 1,
+      "unanimous": 1,
+      "unanimous_correct": 1
+    },
+    "extraction-arc1": {
+      "active": 0,
+      "coverage": 0,
+      "unanimous": 0,
+      "unanimous_correct": 0
+    }
+  },
+  "covered": [
+    "ef26cbf6"
+  ],
+  "baseline_solved": 167,
+  "additional_candidates": []
+}

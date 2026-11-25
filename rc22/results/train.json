@@ -1,0 +1,32 @@
+{
+  "tasks": 400,
+  "families": {
+    "compose-correspondence-train": {
+      "active": 13,
+      "coverage": 11,
+      "unanimous": 6,
+      "unanimous_correct": 6
+    },
+    "extraction-train": {
+      "active": 4,
+      "coverage": 2,
+      "unanimous": 3,
+      "unanimous_correct": 2
+    }
+  },
+  "covered": [
+    "1caeab9d",
+    "2204b7a8",
+    "23b5c85d",
+    "25ff71a9",
+    "3618c87e",
+    "7468f01a",
+    "88a10436",
+    "9565186b",
+    "a79310a0",
+    "aabf363d",
+    "b230c067",
+    "ddf7fa4f",
+    "f25ffba3"
+  ]
+}

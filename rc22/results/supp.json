@@ -1,0 +1,20 @@
+{
+  "tasks": 100,
+  "families": {
+    "compose-correspondence-supp": {
+      "active": 0,
+      "coverage": 0,
+      "unanimous": 0,
+      "unanimous_correct": 0
+    },
+    "extraction-supp": {
+      "active": 0,
+      "coverage": 0,
+      "unanimous": 0,
+      "unanimous_correct": 0
+    }
+  },
+  "covered": [],
+  "baseline_solved": 11,
+  "additional_candidates": []
+}
